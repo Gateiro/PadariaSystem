@@ -1,2 +1,5 @@
 # PadariaSystem
-Sistema de pedidos de uma padaria a ser desenvolvido na UC7 do Senac Sorocaba. 
+Sistema de gerenciamento de pedidos com interface gráfica para uma padaria. 
+Linguagem: JAVA
+
+Em desenvolvimento.
