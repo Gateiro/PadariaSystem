@@ -18,7 +18,7 @@ public class Sidebar extends VBox {
         Image imgIconFornecedor = new Image(getClass().getResourceAsStream("/view/img/iconFornecedor.png"));
         Image imgIconCliente = new Image(getClass().getResourceAsStream("/view/img/iconCliente.png"));
         Image imgIconProduto = new Image(getClass().getResourceAsStream("/view/img/iconProduto.png"));
-        Image imgIconPedidos = new Image(getClass().getResourceAsStream("/view/img/iconPedidos.png"));
+        Image imgIconPedidos = new Image(getClass().getResourceAsStream("/view/img/iconPedido.png"));
 
         ImageView imgFornecedor = new ImageView(imgIconFornecedor);
         imgFornecedor.setFitHeight(25);
