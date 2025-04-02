@@ -4,7 +4,9 @@
       <root url="file://$PROJECT_DIR$/Ambiente/javafx-sdk-21.0.6/lib" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Ambiente/javafx-sdk-21.0.6/lib/javafx.controls.jar!/" />
+    </SOURCES>
     <jarDirectory url="file://$PROJECT_DIR$/Ambiente/javafx-sdk-21.0.6/lib" recursive="false" />
   </library>
 </component>
